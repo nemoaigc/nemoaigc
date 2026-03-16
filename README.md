@@ -65,7 +65,43 @@
   <br><b>GitHub</b>
 </td>
 </tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+  <br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+  <br><b>MySQL</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
+  <br><b>REST API</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+  <br><b>Java</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="48" height="48" />
+  <br><b>Prettier</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+  <br><b>Cloud</b>
+</td>
+</tr>
 </table>
+
+---
+
+<div align="center">
+
+### `🏆 ACHIEVEMENTS`
+
+<img src="https://github-profile-trophy.vercel.app/?username=nemoaigc&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" width="90%" />
+
+</div>
 
 ---
 
@@ -82,7 +118,18 @@
 
 <br/><br/>
 
+<!-- 3D CONTRIBUTION -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nemoaigc&bg_color=0d1117&color=5271FF&line=5271FF&point=ffffff&area=true&area_color=5271FF&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `💬 RANDOM DEV QUOTE`
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="520" />
 
 </div>
 
