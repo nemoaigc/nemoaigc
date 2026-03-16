@@ -41,6 +41,10 @@
 <table align="center">
 <tr>
 <td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/openai/white" alt="Agent" width="48" height="48" />
+  <br><b>Agent</b>
+</td>
+<td align="center" width="96">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
   <br><b>Python</b>
 </td>
@@ -57,38 +61,8 @@
   <br><b>Docker</b>
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" />
-  <br><b>Nginx</b>
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-  <br><b>GitHub</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-  <br><b>JavaScript</b>
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-  <br><b>MySQL</b>
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
-  <br><b>REST API</b>
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
-  <br><b>Java</b>
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="48" height="48" />
-  <br><b>Prettier</b>
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-  <br><b>Cloud</b>
+  <img src="https://cdn.simpleicons.org/scrapy/white" alt="Crawler" width="48" height="48" />
+  <br><b>Crawler</b>
 </td>
 </tr>
 </table>
