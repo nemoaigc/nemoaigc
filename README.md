@@ -41,10 +41,6 @@
 <table align="center">
 <tr>
 <td align="center" width="96">
-  <img src="https://cdn.simpleicons.org/openai/white" alt="Agent" width="48" height="48" />
-  <br><b>Agent</b>
-</td>
-<td align="center" width="96">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
   <br><b>Python</b>
 </td>
@@ -53,16 +49,16 @@
   <br><b>TypeScript</b>
 </td>
 <td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+  <br><b>Java</b>
+</td>
+<td align="center" width="96">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
   <br><b>React</b>
 </td>
 <td align="center" width="96">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
   <br><b>Docker</b>
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.simpleicons.org/scrapy/white" alt="Crawler" width="48" height="48" />
-  <br><b>Crawler</b>
 </td>
 </tr>
 </table>
